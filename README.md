@@ -57,5 +57,4 @@ Calculates the shortest path using Dijkstra's algorithm, considering the battery
 Recommends the nearest charging station if the destination is beyond the battery range.
 Displays the optimal route on an interactive map and provides relevant information.
 
-Original authors : Rhythm Bindal and Aarohi Manchanda
-Feel free to open branches and drop in contributions. 
+
